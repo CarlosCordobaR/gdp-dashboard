@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ec0b1b40-01cc-477d-9d2e-df582d80350a",
+    "timestamp": "2025-08-05T21:21:04.477108",
+    "department": "Marketing",
+    "requester_name": "Ana García",
+    "requester_email": "ana.garcia@empresa.com",
+    "project_type": "Marketing",
+    "priority": "🔴 Alta",
+    "budget_range": "No especificado",
+    "expected_start": "2025-09-04",
+    "expected_duration": "1-2 semanas",
+    "project_title": "Campaña Digital Q1 2025",
+    "project_description": "Necesitamos desarrollar una campaña de marketing digital integral para promocionar nuestros nuevos productos durante el primer trimestre de 2025. La campaña incluirá redes sociales, email marketing, y publicidad online.",
+    "business_justification": "El lanzamiento de nuevos productos requiere una estrategia de marketing sólida para alcanzar nuestros objetivos de ventas del Q1. Esta campaña es crítica para posicionar los productos en el mercado y aumentar el awareness de marca.",
+    "success_criteria": "",
+    "additional_notes": "",
+    "status": "En Progreso",
+    "assigned_to": "Carlos Mendoza",
+    "comments": []
+  }
+]
